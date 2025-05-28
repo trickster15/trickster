@@ -1,0 +1,11 @@
+empid,empname,age,salary,dept,experience
+101,Alice,25,50000,HR,2
+102,Bob,30,60000,IT,5
+103,Charlie,28,55000,Finance,4
+104,David,35,75000,Marketing,10
+105,Eva,40,80000,IT,12
+106,Frank,32,67000,HR,7
+107,Grace,29,62000,Finance,3
+108,Helen,31,70000,Marketing,9
+109,Ian,26,48000,IT,1
+110,Jane,27,51000,Finance,2
